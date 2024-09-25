@@ -1,0 +1,35 @@
+
+
+.saving{
+
+    background: url('https://www.samatapat.com/admin/uploads/termdepositpage/terms-deposit654b7fe6dcfc8.jpg' ) no-repeat 100% 100%; 
+   
+
+}
+.list  li{
+    list-style-type: none;
+    align-items: inline-block;
+    display: inline;
+    
+}
+.list  ul{
+    background-color: rgb(229, 231, 233);
+   
+   display: flex;
+   align-items: center;
+   text-align: center;
+    justify-content: space-around;
+}
+
+
+@media (max-width: 768px) {
+   
+    .container h2{
+        text-align: center;
+    }
+    button{
+        text-align: left;
+        margin: 5px;
+    }
+ 
+}

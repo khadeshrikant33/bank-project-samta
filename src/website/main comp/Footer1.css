@@ -1,0 +1,29 @@
+a {
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    transform: translateX(5px); /* Moves the text 20px to the right */
+  }
+ 
+  .icon ul li{
+    list-style-type: none;
+    padding: 10px;
+    font-size: 30px;
+    
+  }
+  @media screen and (max-width: 667px){
+     .responsive{
+        text-align: center;
+        padding: 4px !important;
+        margin: 4px !important;
+        
+     }
+     .responsive h2{
+        margin-top: 40px;
+     }
+ 
+  }
+    
+  

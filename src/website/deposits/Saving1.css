@@ -1,0 +1,35 @@
+
+
+.saving{
+
+    background: url("https://www.samatapat.com/admin/uploads/savingspage/saving-banner654c688a4ca58.jpg" ) no-repeat 100% 100%; 
+
+}
+.list  li{
+    list-style-type: none;
+    align-items: inline-block;
+    display: inline;
+
+  
+    
+}
+.list  ul{
+    background-color: rgb(229, 231, 233);
+   
+   display: flex;
+   align-items: center;
+   text-align: center;
+    justify-content: space-around;
+}
+
+
+@media (max-width: 768px) {
+    .list{
+        display: none;
+       
+    }
+    .container h2{
+        text-align: center;
+    }
+ 
+}

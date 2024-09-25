@@ -1,0 +1,19 @@
+.vision {
+                  
+    /* background-image: url("https://www.samatapat.com/admin/uploads/aboutpage/about6549d5ee8c29e.jpg"); */
+    background-image: url('https://www.samatapat.com/admin/uploads/ourvisionpage/partner654a1eb0cf8cf.jpg');
+    background-repeat: no-repeat;
+    filter:brightness(0.9); 
+      background-size: cover;
+       height: auto;
+
+}
+.home{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+

@@ -1,0 +1,65 @@
+.background{
+    background:url("https://etvbharatimages.akamaized.net/etvbharat/prod-images/26-12-2023/1200-675-20357194-thumbnail-16x9-rupee.jpg?imwidth=3840")
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    position: relative;
+}
+.sec_1 .anchar{
+     text-decoration: none;
+     position: absolute;
+     top:190px;
+     left: 575px;
+    
+     font-weight: bold;
+    color: rgb(252, 11, 15) !important;
+
+
+
+}
+@media (max-width: 667px){
+    .sec_1  .anchar{
+        display: none;
+    margin-top: s;
+    }
+    
+
+.res  li{
+    /* /* list-style-type: none; */
+    border: 1px solid white;
+    padding: 8px;
+    display: inline-block;
+    margin: 0px !important;
+     padding: 0px !important;
+     width: 150px !important;
+     font-size: 14px;
+     color: white;
+     padding: 10px !important;    
+    margin-top: 20px !important;
+    margin-right: 10px !important;
+    text-align: center
+}
+
+    
+
+    
+}
+
+
+.sec_2  li{
+    /* /* list-style-type: none; */
+    border: 1px solid white;
+    padding: 8px;
+    display: inline-block;
+    width: 175px;
+    margin-top: 10px;
+    text-align: center
+}

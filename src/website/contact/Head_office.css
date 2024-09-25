@@ -1,0 +1,18 @@
+.saving{
+    background-color: cadetblue;
+    background-image: url("https://www.samatapat.com/admin/uploads/headofficepage/contact654f2954b99f0.jpg");
+}
+
+
+
+@media (max-width: 768px) {
+  .button1  button{
+     padding: 4px !important;
+    
+   }
+   .section_icon i{
+     display: none;
+     margin-top: 5px;
+   }
+ 
+}

@@ -1,0 +1,45 @@
+.card-footer button:hover {
+    background-color: greenyellow !important;
+    transition: 0.9s;
+}
+.card_div:hover{
+    box-shadow: 0px  0px 5px  grey;
+    
+}
+
+.loan_feature:hover{
+    color: black
+}
+.loan_feature img{
+     border:  1px  solid #3C4099 ;
+     padding: 20px;
+     border-radius: 50%;
+    
+    }
+    .demo img:hover{
+        background-color: greenyellow;
+    }
+
+
+    .demo :hover{
+        color: rgb(48, 138, 48);
+    }
+   
+    .sec_3 .demo{
+        display:flex;
+        
+        align-items: center;
+        gap: 50px ;
+        margin-left: 20px;
+        
+
+    }
+
+    @media screen and (max-width: 667px){
+        .video{
+           text-align: center;
+           
+           
+        }
+       
+     }
