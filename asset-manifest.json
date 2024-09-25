@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bank-project-samta/static/css/main.ecca56e3.css",
-    "main.js": "/bank-project-samta/static/js/main.23e47c0c.js",
+    "main.js": "/bank-project-samta/static/js/main.fff6c57b.js",
     "static/js/453.aad29f32.chunk.js": "/bank-project-samta/static/js/453.aad29f32.chunk.js",
     "static/media/logo.svg": "/bank-project-samta/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bank-project-samta/index.html",
     "main.ecca56e3.css.map": "/bank-project-samta/static/css/main.ecca56e3.css.map",
-    "main.23e47c0c.js.map": "/bank-project-samta/static/js/main.23e47c0c.js.map",
+    "main.fff6c57b.js.map": "/bank-project-samta/static/js/main.fff6c57b.js.map",
     "453.aad29f32.chunk.js.map": "/bank-project-samta/static/js/453.aad29f32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecca56e3.css",
-    "static/js/main.23e47c0c.js"
+    "static/js/main.fff6c57b.js"
   ]
 }
