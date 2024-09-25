@@ -3,7 +3,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 import Navbar from './website/main comp/Navbar.jsx';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Footer1 from './website/main comp/Footer1.jsx';
 import Import_link from './website/main comp/Import_link.jsx';
 import Our_teams from './website/about us/Our_teams.jsx';
